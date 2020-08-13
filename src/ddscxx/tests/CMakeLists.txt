@@ -44,6 +44,7 @@ set(ddscxx_test_sources
   "Query.cpp"
   "WaitSet.cpp"
   "Condition.cpp"
+  "ContentFilteredTopic.cpp"
   "Qos.cpp"
 )
 
